@@ -1,4 +1,4 @@
-https://philomathica.github.io/sveltekit-blog-app/
+https://frosty-liskov-34ebf4.netlify.app
 
 # create-svelte
 
